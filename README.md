@@ -53,7 +53,7 @@ other tech enthusiasts, learn from experts, and discover new tools and framework
      <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/discord.svg"/>
    </a>
   
-   <a href="https://www.github.com/kritesh00/kritesh00">
+   <a href="https://www.github.com/kritesh00">
      <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/github.svg"/>
    </a>
    
