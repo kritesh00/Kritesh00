@@ -1,3 +1,6 @@
+[![HELLO-THERE.png](https://i.postimg.cc/QCfQBZKp/HELLO-THERE.png)](https://postimg.cc/LgZY77TX)
+
+
 <h1 align="center">Hi 👋, I'm Kritesh Bhattarai</h1>
 <h3 align="center">A passionate learner from Nepal</h3>
 
