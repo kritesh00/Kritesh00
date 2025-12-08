@@ -96,9 +96,6 @@ other tech enthusiasts, learn from experts, and discover new tools and framework
 <h2>Stats⭐</h2>
 <div align="center">
   
-  ![Kritesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=kritesh00&show_icons=true&theme=algolia)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kritesh00&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
-  <p><img src="https://github-profile-trophy.vercel.app/?username=kritesh00&theme=algolia"/></p>
   
   [![Kritesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kritesh00&theme=algolia)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
