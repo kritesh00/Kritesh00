@@ -12,8 +12,7 @@
  
  </div>
 <p>
-Nice to meet everyone! I’m a Computer Engineering student with a passion for coding and a deep interest in cybersecurity. I’m always eager to learn new technologies and push my skills further, especially through hands-on projects and coding challenges. Recently, I had the chance to attend Google Developer Fest Kathmandu, which was an incredibly exciting experience. It gave me the opportunity to connect with
-other tech enthusiasts, learn from experts, and discover new tools and frameworks that sparked even more curiosity in me.I’m constantly working on personal coding projects, often late at night, when the coding bug hits hardest. These projects range from tackling complex algorithms to experimenting with new programming languages and frameworks. I find joy in solving problems and improving my coding skills with each new challenge.</p>
+Nice to meet everyone! I’m a Computer Engineering student with a passion for coding and a deep interest in cybersecurity. I’m always eager to learn new technologies and push my skills further, especially through hands-on projects and coding challenges. I’m constantly working on personal coding projects, often late at night, when the coding bug hits hardest. These projects range from tackling complex algorithms to experimenting with new programming languages and frameworks. I find joy in solving problems and improving my coding skills with each new challenge.</p>
 
 
 <div align="center"> 
