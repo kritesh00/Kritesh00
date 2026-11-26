@@ -55,11 +55,7 @@ Nice to meet everyone! I’m a Computer Engineering student with a passion for c
 🎲 Fun fact: I used Kali Linux in grade 5 and love to collect swags<br>
 </p>
 
-<div align="center">
-  
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31jq4rb47f75tuzcg2l7mqxkqas4&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31jq4rb47f75tuzcg2l7mqxkqas4&redirect=true)
 
-</div>
 
 
  
